@@ -1,4 +1,4 @@
-num = input("Da un entero: ")
+num = int(input("Da un entero: "))
 if num/3 == 1:
     print("Divisible entre 3")
 else:
